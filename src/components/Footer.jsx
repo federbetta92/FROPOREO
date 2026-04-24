@@ -9,7 +9,7 @@ export default function Footer() {
         {/* INFO */}
         <div>
           <h3 className="font-semibold uppercase tracking-wide mb-3 text-brand-accent">
-            Almacén FROPOREO
+            Almacén FROPOREO (PREVIEW)
           </h3>
           <p>Almacén de barrio con envío a domicilio.</p>
           <p className="mt-1">📍 Zona de entregas locales</p>
